@@ -13,7 +13,7 @@ body {
 
 .header {
   color: lightcoral;
-  font-size: x-large;
+  font-size: xx-large;
   font-weight: bold;
   padding: 10px;
 }
@@ -27,7 +27,7 @@ body {
 
 .footer {
   color: cornflowerblue;
-  font-size: x-small;
+  font-size: xx-small;
   font-weight: lighter;
   padding: 10px;
 }
