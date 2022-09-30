@@ -1,3 +1,3 @@
-# Portfolio
+# Tommy Garvin
 
-Portfolio page hosted at: <https://tommygarvin.github.io>
+Page hosted at: <https://tommygarvin.github.io>
